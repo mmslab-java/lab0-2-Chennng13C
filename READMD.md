@@ -1,3 +1,3 @@
-“# Hellow git”
+“# stay cool”
 
 
